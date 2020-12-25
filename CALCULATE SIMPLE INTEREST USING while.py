@@ -1,4 +1,4 @@
-while 6<8:
+while True:
 
     principle=int(input("enter the value principle:"))
 
