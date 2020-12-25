@@ -1,4 +1,4 @@
-while 6<7:
+while True:
     a=int(input("enter the value a:"))
 
     square_value=a**2
