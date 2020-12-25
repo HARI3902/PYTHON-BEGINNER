@@ -1,4 +1,4 @@
-while 4<5:
+while True:
     a=int(input("enter the value:"))
 
     if a%2==0:
