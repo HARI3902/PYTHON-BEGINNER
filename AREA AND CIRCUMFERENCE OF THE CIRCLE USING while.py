@@ -1,4 +1,4 @@
-while 8<9:
+while True:
 
     radius=int(input("enter the value radius:"))
 
